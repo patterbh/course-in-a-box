@@ -3,31 +3,14 @@ layout: index
 published: true
 ---
 
-## Create a Learning Community that Lasts
+## Edukitchen: Cooking up new ideas in pedagogy
 
-Online courses often feel large, intimidating and anonymous. It's hard to feel invested
-in multiple choice quizzes, textbook chapters and hum-drum Q &amp; A forums where you
-don't know anyone.
-
-In a stellar learning experience, you'd know who was in the room and feel super-comfy.
-You'd make projects together and find help when you get stuck. You'd want to send people
-thank-you cards and chicken soup.
-
-We know designing a creative, participatory community can be tricky. We're here to help
-you craft assignments that rule, build an audience and support you along the way. You'll
-even learn a few technical skills in the process. Don't worry, 1s and 0s wash off
-pretty easily.
+The crisis of the public university in India is well acknowledged, and in recent years we have seen the rise of the private university. Both however are aimed at the endless production of students, and what we sorely lack in India is an intellectual infrastruxture for post education life. We feel that Web 2.0 is perfectly placed to create virtual universities that rethink education, rethink the idea of tutors and students and offer the potential of creating rhizomatic open universities that will provide a new model for thinking of post education life.
 		
-## OK, but who are you guys?
+## Who we are
 
-We're [Peer 2 Peer University](http://p2pu.org)--we build learning communities
-on the web. In the last 5 years, we put together courses like 
-[Play With Your Music](http://www.playwithyourmusic.org/),
-[Learning Creative Learning](http://learn.media.mit.edu/lcl/), the
-[Deeper Learning MOOC](http://dlmooc.deeper-learning.org/), and
-[A Gentle Intro to Python](http://mechanicalmooc.org/). 
-Also, we're a non-profit and a distributed team (so we use the tools we recommend).
+We're students from the University of Michigan partnering with [Centre for Internet and Society](http://cis-india.org/).
 
 			
-## I'm in--how do I get started?
+## Interested in P2PU--how do I get started?
 Head over [here]({{site.baseurl}}/modules/start/about-this-course/) to create your own course!
